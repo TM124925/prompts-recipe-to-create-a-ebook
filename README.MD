@@ -11,8 +11,8 @@
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                           
-|  Começo | Quero que atue como um profissional criador de e-book |
-| Subtítulo| O título é o poder dos símbolos. Quero que me ajude a criar um subtítulo e um pequeno resumo |
+-  Começo | Quero que atue como um profissional criador de e-book |
+- Subtítulo| O título é o poder dos símbolos. Quero que me ajude a criar um subtítulo e um pequeno resumo |
 
 
 Midjourney：
